@@ -1,0 +1,268 @@
+.font  {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body{
+font-family: 'Montserrat', sans-serif;
+}
+
+
+.ActiveEnglish {
+  padding: 0 0 0 6rem
+}
+
+.mainpageButtons {
+  padding: 0 6rem 0 0
+}
+
+
+
+.yellowActive{
+  color: #FFD603
+}
+
+
+
+.mainpageHeading {
+  padding:  8rem 0 2rem 6rem;
+
+}
+
+.mainpageHeadingStyle{
+  font-weight: 800;
+  line-height: 1.5;
+  font-size: 3rem;
+
+}
+
+.yellowFigure {
+  width: 450px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px
+
+}
+
+.yellowButton {
+ padding:  0 0 0 6rem;
+}
+
+
+.btn {
+    border-radius: 28px !important;
+    box-shadow: 0px 4px 4px #c7c7c7;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #000000;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    background: #FFD603 !important;
+    padding: 12px 18px  !important;
+    width: fit-content;
+}
+
+.btn:hover {
+  background: #ffdb63 !important;
+  }
+
+
+#advantages {
+  position: relative;
+  top: 50px;
+  padding:  0 6rem 0 6rem;
+  }
+
+
+
+.icon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+}
+
+.advantagesHeading {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.advantagesText {
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+#packages{
+position: relative;
+top: 150px;
+padding:  0 6rem 0 6rem;
+
+}
+
+.packagesHeading {
+  text-align: center;
+  margin-bottom: 6rem;
+}
+
+.card {
+  width: 265px;
+  height: 425px;
+  background-color: white;
+  box-shadow: 0px 4px 4px #c7c7c7;
+  color: #666666;
+  margin-bottom: 2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.packagesBoxHeading{
+  text-align: center;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  color: black
+}
+
+.advantagesBoxText {
+  text-align: center;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 2rem;
+  color: black
+}
+
+.btnBookDiv {
+  text-align: center
+}
+
+#footer {
+  position: relative;
+  top: 200px;
+  background-color: #c7c7c7;
+  text-align: center;
+  }
+
+.footer-icon{
+  margin: 40px 10px 10px 20px;
+}
+
+.contactsFooter{
+  color:black;
+  margin-left: 10px
+}
+
+.copyright {
+  padding: 0 0 20px
+}
+
+@media (max-width: 991px) {
+
+  .ActiveEnglish {
+    font-size: 3rem !important;
+    padding-left: 0
+
+  }
+
+  .navbar-nav > li > a {
+        line-height: 100px;
+        font-size: 2.7rem;
+        text-align: right;
+    }
+
+  .mainpageHeading {
+    text-align: center;
+    padding-left: 0
+    }
+
+.mainpageHeadingStyle {
+  font-size: 5rem;
+
+}
+
+  .navbar-toggler-icon {
+    width: 70px !important;
+    height: 70px !important;
+    }
+
+  .yellowFigure {
+    margin: 6rem;
+    width: 670px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .advantagesHeading {
+    font-size: 4rem;
+  }
+
+    .advantagesText {
+    font-size: 2.5rem
+    }
+
+   .packagesHeading {
+  font-size: 4rem;
+
+   }
+
+    .card {
+      width: 600px;
+      height: 750px;
+      margin-bottom: 5rem;
+    }
+
+    .packagesBoxHeading {
+      font-size: 3.5rem;
+      margin: 4rem 0 1rem 0 ;
+      }
+
+    .advantagesBoxText{
+      font-size: 2.5rem;
+    }
+
+.btn{
+  font-size: 2.5rem !important;
+  border-radius: 50px !important;
+  box-shadow: 0px 8px 8px #c7c7c7;
+  padding: 24px 36px  !important;
+}
+
+.btn:hover {
+  background: #ffdb63 !important;
+  text-decoration: none;
+}
+
+.yellowButton {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.btnBookDiv {
+  margin: 2rem 0 0 0
+}
+
+.icon {
+  width: 120px;
+  height: auto
+}
+
+.footer-icon {
+font-size: 50px;
+margin: 50px 30px;
+}
+
+.contactsFooter {
+  font-size: 50px;
+  color: #212529;
+}
+
+.copyright {
+  font-size: 30px;
+  color: #212529;
+}
+
+ }
